@@ -1,0 +1,41 @@
+INSERT INTO SPRING_SEMI."MEMBER" (MEMBER_NO,MEMBER_EMAIL,MEMBER_PW,MEMBER_NICKNAME,MEMBER_TEL,MEMBER_ADDRESS,PROFILE_IMG,ENROLL_DATE,MEMBER_DEL_FL,AUTHORITY) VALUES
+	 (33,'123@naver.com','$2a$10$L.xw..UGxSWQbhFPXflgQuuq16eCXm.dcY8n6X1K2Ou0H8XI06u9q','음잘알','01045465465',NULL,NULL,TIMESTAMP'2024-05-03 03:03:53','N','N'),
+	 (21,'dlwltn@naver.com','$2a$10$X9VowgNbNTHQXCEdtj0dVejdDEFjRcX6ceaeoxdHVV12tFK0DBSAa','gldlqgkq','01099999999','04540 서울 중구 남대문로 120','/images/profile/20240503154154_00016.jpg',TIMESTAMP'2024-05-02 15:16:40','N','N'),
+	 (40,'12@12.com','$2a$10$nyh0WrKBe4lHtwT6o/djbu/awW.TYLT..BeMb590.k8t760X07ZZ2','폭탄발사','01054654654','16526 경기 수원시 영통구 매영로 79','/images/profile/20240503153329_00011.png',TIMESTAMP'2024-05-03 15:32:30','N','N'),
+	 (23,'ddd@kh.co.kr','$2a$10$k83L9dgWa.lg9U2oHGFY7OhzJqB6kQtBgxXCorhEKMaRrdxQz7SoC','ddd','01012341234','04540 서울 중구 남대문로 120','/images/profile/20240503151103_00001.png',TIMESTAMP'2024-05-02 17:11:12','N','N'),
+	 (32,'pijklm@kh.co.kr','$2a$10$DZVzAd0T5u.iVFBtBnkQJu5Bcv6ywnQG2qnfhkiIHS8O/Vfl3LCfC','pijklm','01043657675','04540 서울 중구 남대문로 120','/images/profile/20240502214844_00034.jpg',TIMESTAMP'2024-05-02 21:47:17','N','N'),
+	 (24,'haechan0202@gmail.com','$2a$10$27YQD4nMCcCJRtzmnfydquHB5MOpcbiFtry5FVSFeSFGQ70t16nOW','zzzz88','01022223333',NULL,'/images/profile/20240503150627_00004.jpg',TIMESTAMP'2024-05-02 17:13:26','N','N'),
+	 (36,'123@123.com','$2a$10$AiVnXSQIHjGs9CfM1eLHpenD9MvYrsc1MnDQAHfk8txrOyxWstKbO','간죽간살','01054654654',NULL,'/images/profile/20240503105410_00002.jpg',TIMESTAMP'2024-05-03 10:52:10','Y','N'),
+	 (37,'123@1233.com','$2a$10$EAoRq5pW8/K6UJwdtsi79OKN90S52IJvrhykFrQq/eZj32gwANkcS','이올시다','01054654654',NULL,'/images/profile/20240503121322_00001.jpg',TIMESTAMP'2024-05-03 12:11:12','Y','N'),
+	 (3,'ijisu8022@gmail.com','$2a$10$vmMu5ZJ/qMaavveCP7TzFOLcQLn9ETUR5dNJrb23xPFUI2tm8Xemm','ewfdsdx','01022223311','서울시 중구(수정)','/images/profile/20240503152011_00004.jpg',TIMESTAMP'2024-04-23 16:02:32','N','Y'),
+	 (4,'qwer@gmail.com','$2a$10$mFLxG3lfIFV8YskkKMVmRuv0WB.5fE9T2odtJbQUqj0jqFES4gLHi','wldltndn','01012341234','서울시 중구(수정)','/images/profile/20240502192558_00002.jpg',TIMESTAMP'2024-04-23 16:02:32','N','N');
+INSERT INTO SPRING_SEMI."MEMBER" (MEMBER_NO,MEMBER_EMAIL,MEMBER_PW,MEMBER_NICKNAME,MEMBER_TEL,MEMBER_ADDRESS,PROFILE_IMG,ENROLL_DATE,MEMBER_DEL_FL,AUTHORITY) VALUES
+	 (22,'haechan0202@naver.com','$2a$10$wMEXZw1SbC9X.lpqEznDEuczXJFS3lPO8rtBX/0olszNrvteLkSCO','히히히','01088887777',NULL,'/images/profile/20240503150435_00002.jpeg',TIMESTAMP'2024-05-02 16:20:10','N','N'),
+	 (35,'slksjjk@kh.co.kr','$2a$10$4d9PundbMzMIsRwCsJquTuQUZatMhqt3OOQPc9HPzoyZieM/NO7uu','mmp','01033334444','04540 서울 중구 남대문로 120','/images/profile/20240503153630_00013.jpg',TIMESTAMP'2024-05-03 10:31:30','N','N'),
+	 (34,'admin@naver.com','$2a$10$KzbyvSRK1E.M39l0OG2ewOkU1VHtHmP9OSqVdGfES9iIm9RrjKOZ2','관리자','01022223311',NULL,NULL,TIMESTAMP'2024-05-03 09:10:02','N','Y'),
+	 (17,'sotoddlf03@icloud.com','$2a$10$B7aIFykR24rrv4hpx3lgNegeIDvxmQAT4U0AOM0Ro9evVQQ9LMyya','아이돈라이크힙합','01033334444','04540 서울 중구 남대문로 120','/images/profile/20240503141244_00001.jpg',TIMESTAMP'2024-04-25 17:17:24','N','N'),
+	 (39,'vnjvn@kh.co.kr','$2a$10$k2TBptqZ00UAFqXWQpud3O9TWJEtTXnqXhWG/LENlQMmI04RHoFQO','아이원트고홈','01012341234','04540 서울 중구 남대문로 120',NULL,TIMESTAMP'2024-05-03 15:32:00','Y','N'),
+	 (44,'sibagyeoni@gmail.com','$2a$10$hoXoeVY8QnwsniPOBiOmzeerLko6.0mS2TclaGWMk74tmKfFYLhEu','시바견','01075330999','태양계','/images/profile/20240503161532_00028.gif',TIMESTAMP'2024-05-03 16:13:00','N','N'),
+	 (45,'rhoth0402@gmail.com','$2a$10$A4uwyWF0Z9ykCqnsssNpz.Wk6hD3xDNxNDRo9ZlaQ9gPOZ3zF1nP6','testnt','01012345678',NULL,'/images/profile/20240503161420_00023.JPG',TIMESTAMP'2024-05-03 16:13:07','Y','N'),
+	 (46,'vkd2009@naver.com','$2a$10$L3Nwa6dlYBnQwrKmtrfOVOlIA609E3gAhPw1G6iz6aXiIv6EhoUp.','123123','01011111111','aaa1',NULL,TIMESTAMP'2024-05-03 16:13:45','N','N'),
+	 (51,'jkhwan59@gmail.com','$2a$10$kyCin9mdar1Q9JgO8ZCxKOh7bmQkmbrVZs7m2iqe5gFbPh.43s1oS','nickname','01023456789','20030',NULL,TIMESTAMP'2024-05-03 16:21:13','N','N'),
+	 (53,'andymon@naver.com','$2a$10$Kb71c/xGBi3AOVSPn.CIDOXpmHcQX4Gz8wqVY6i5WOOht1LolIpjG','모끼','01021341324','11',NULL,TIMESTAMP'2024-05-03 16:30:08','N','N');
+INSERT INTO SPRING_SEMI."MEMBER" (MEMBER_NO,MEMBER_EMAIL,MEMBER_PW,MEMBER_NICKNAME,MEMBER_TEL,MEMBER_ADDRESS,PROFILE_IMG,ENROLL_DATE,MEMBER_DEL_FL,AUTHORITY) VALUES
+	 (54,'ieunjae096@gmail.com','$2a$10$92Eriw1PUlKhgDYgThm4ROg/sj1p0zm0A1qMpyeVlaAXrdYSsa5Fu','도비','01012341234','서울시 중구','/images/profile/20240503164104_00044.jpg',TIMESTAMP'2024-05-03 16:38:08','Y','N'),
+	 (26,'fedvfdv@kh.co.kr','$2a$10$AlReRV6FFnSNVv8bWN0tx.BCN6YXy4/IX7j/1MO6bItNaANNPPxly','mumape','01023231212','04540 서울 중구 남대문로 120','/images/profile/20240502200803_00005.jpg',TIMESTAMP'2024-05-02 20:07:22','N','N'),
+	 (27,'sas3234@kh.co.kr','$2a$10$vS7jVnZK72Rj0OZFs61siei828GIzr9Ihm/fFQBTdsbSCPIxZwbRu','뉴짆스님','01023231212','04540 서울 중구 남대문로 120','/images/profile/20240503155049_00020.jpg',TIMESTAMP'2024-05-02 20:28:39','N','N'),
+	 (20,'qqq366@naver.com','$2a$10$wi9ucE2kcIDsGCSFrpc6Pu3yHPEmJJmPQIk7DPv1bM720XqdXS/8.','당근','01054654654','가나로 기번길 3번지','/images/profile/20240503150509_00003.jpg',TIMESTAMP'2024-05-02 12:46:04','N','N'),
+	 (25,'gkrdnjs@kh.co.kr','$2a$10$G/1UdEmIkR9KxDPiO1WKXeSICHf/kvu8Y/0RIQapXLNntjUTrMkJ2','애플','01033335555','04540 서울 중구 남대문로 120','/images/profile/20240502193258_00004.jpg',TIMESTAMP'2024-05-02 19:32:20','N','N'),
+	 (28,'sksi@kh.co.kr','$2a$10$R3aI.O4h4nAQ7tNyyGHbAuhJizTgYPgu7QIMCCpc3bh2stFd1x4ga','근본','01011112222','04540 서울 중구 남대문로 120','/images/profile/20240502204426_00016.jpg',TIMESTAMP'2024-05-02 20:43:11','N','N'),
+	 (30,'dkdkdk@kh.co.kr','$2a$10$YdmwVShJrr5QFQCo.kM6UOp5Sm014lwKIMeBh1BhnPpStWE4c0tJ6','sadsads','01023231212','04540 서울 중구 남대문로 120','/images/profile/20240502204839_00017.jpg',TIMESTAMP'2024-05-02 20:47:13','N','N'),
+	 (31,'hriodkn@kh.co.kr','$2a$10$3G7sbKbfH63MpxlM7GdMheMwtBLVzNpHW8rHAr7TJse2UWw1eeFYK','글자수열글자인뎈뭐냐','01034354654','04540 서울 중구 남대문로 120','/images/profile/20240502205544_00019.jpg',TIMESTAMP'2024-05-02 20:55:06','N','N'),
+	 (38,'dd@daum.net','$2a$10$CZFSaXfw4e5uLr.aMh.2GuMAgG3IS7ZTbIfKYLZ2h9O/RUW9zvWIG','JACKBOYS','01022223311',NULL,'/images/profile/20240503151714_00001.jpg',TIMESTAMP'2024-05-03 12:12:53','N','N'),
+	 (41,'hanseog201@naver.com','$2a$10$ESc/dUaV91XhCgJAcdZQGe/xr742objQOOBZypiFOQRp5d/qCDhc.','테스트트트트트','01012341234','13536 경기 성남시 분당구 판교역로 4',NULL,TIMESTAMP'2024-05-03 16:08:44','N','N');
+INSERT INTO SPRING_SEMI."MEMBER" (MEMBER_NO,MEMBER_EMAIL,MEMBER_PW,MEMBER_NICKNAME,MEMBER_TEL,MEMBER_ADDRESS,PROFILE_IMG,ENROLL_DATE,MEMBER_DEL_FL,AUTHORITY) VALUES
+	 (42,'tgjeon1104@naver.com','$2a$10$edjBoCAuLUtQgjYZgvoOIehRJT6Ul.d0ckmAOIAVHjwSfEwCMiBUi','메가커피','01012345678','05831 서울 송파구 동남로 99',NULL,TIMESTAMP'2024-05-03 16:12:26','N','N'),
+	 (43,'ink0216@naver.com','$2a$10$xPuTDyDXFbKFXB18g8ii6.D7nbAM/8g6TNiMugZUmJinwHaCcLcRG','qwer','01023652145','04540 서울 중구 남대문로 112',NULL,TIMESTAMP'2024-05-03 16:12:30','N','N'),
+	 (47,'kimarv@naver.com','$2a$10$1KClg/hXlgKYzXwKpHooRO2.uLoXm938Z5HKKbhSixtA.qCX7vyNS','아에이오우','01012341234','06912 서울 동작구 강남초등길 1','/images/profile/20240503163857_00041.jpg',TIMESTAMP'2024-05-03 16:15:58','Y','N'),
+	 (48,'027619@naver.com','$2a$10$8r/VOCB8GMv4DvjiuHFoOehdNRtBNHZ6n2jDho4lh1/.XvO1dn1pO','motorHead','01012341234',NULL,'/images/profile/20240503161838_00031.jpg',TIMESTAMP'2024-05-03 16:16:04','N','N'),
+	 (49,'baginseo400@gmail.com','$2a$10$MqhiR54eEaoqCm6urJ9TqOKaZDIRvtabie8LYBc2ph1j1fQ84eU1K','123123123','01012312312',NULL,NULL,TIMESTAMP'2024-05-03 16:18:02','N','N'),
+	 (50,'joohunheee@gmail.com','$2a$10$8AaOKL/IoIjnDGzJvdH.PePGlzrE/ZhUPBx.5IY36sd8tUQ8WGJii','JoNee','01012341234','10275 경기 고양시 덕양구 벽제관로 3',NULL,TIMESTAMP'2024-05-03 16:18:31','N','N'),
+	 (52,'knbdh9782@naver.com','$2a$10$ytKQcYl2mXMYzN8.YNsSeu/SRAPFLuV.z3CiUQsTWZmBLq./2vMaW','선생님입니다','01081081399','04540 서울 중구 남대문로 120 2층 맨 앞','/images/profile/20240503162951_00036.jpg',TIMESTAMP'2024-05-03 16:27:37','Y','N');
