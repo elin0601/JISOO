@@ -1,18 +1,17 @@
+
 class Solution {
     public int[] solution(String s) {
-        int transformCount = 0;
-        int removedZerosCount = 0;
-
-        while (!s.equals("1")) {
-            int originalLength = s.length();
-            s = s.replace("0", "");  // 모든 0을 제거
-            int newLength = s.length();
-            removedZerosCount += (originalLength - newLength);  // 제거된 0의 개수 누적
-
-            s = Integer.toBinaryString(newLength);  // 길이를 이진법으로 변환
-            transformCount++;
+        int[] answer = new int[2];
+        int temp;
+        while( !s.equals("1") ) {
+            answer[1] += s.length();
+            s = s.replaceAll("0", "");
+            temp = s.length();
+            s = Integer.toBinaryString(temp);
+            //System.out.println("s : " + s ); 
+            answer[0]++;
+            answer[1] -= temp;
         }
-
-        return new int[]{transformCount, removedZerosCount};
+        return answer;  
     }
 }
